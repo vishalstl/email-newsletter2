@@ -147,6 +147,7 @@
 
 .list1-cards .card .anchor {
     width: auto;
+    max-width: 150px;
     height: auto;
     display: flex;
     justify-content: center;
